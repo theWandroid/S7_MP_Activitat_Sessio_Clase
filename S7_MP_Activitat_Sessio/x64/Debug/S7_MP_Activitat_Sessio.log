@@ -1,0 +1,11 @@
+﻿  assignatura.cpp
+  test.cpp
+C:\Users\andre\Documents\Programacion\Proyectos C++\UAB\MP\S7_MP_Activitat_Sessio\S7_MP_Activitat_Sessio\source\assignatura.cpp(36,44): error C2039: "setNom": no es un miembro de "Estudiant"
+      C:\Users\andre\Documents\Programacion\Proyectos C++\UAB\MP\S7_MP_Activitat_Sessio\S7_MP_Activitat_Sessio\source\estudiant.h(8,7):
+      vea la declaración de 'Estudiant'
+  
+C:\Users\andre\Documents\Programacion\Proyectos C++\UAB\MP\S7_MP_Activitat_Sessio\S7_MP_Activitat_Sessio\source\assignatura.cpp(37,44): error C2039: "setNiu": no es un miembro de "Estudiant"
+      C:\Users\andre\Documents\Programacion\Proyectos C++\UAB\MP\S7_MP_Activitat_Sessio\S7_MP_Activitat_Sessio\source\estudiant.h(8,7):
+      vea la declaración de 'Estudiant'
+  
+  Generando código...
